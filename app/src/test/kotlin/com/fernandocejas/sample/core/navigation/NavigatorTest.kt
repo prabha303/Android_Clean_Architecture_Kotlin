@@ -13,13 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.core.navigation
+package com.prabha.cleanarchitecture.core.navigation
 
-import com.fernandocejas.sample.AndroidTest
-import com.fernandocejas.sample.features.login.Authenticator
-import com.fernandocejas.sample.features.login.LoginActivity
-import com.fernandocejas.sample.features.movies.MoviesActivity
-import com.fernandocejas.sample.shouldNavigateTo
+import com.prabha.cleanarchitecture.AndroidTest
+import com.prabha.cleanarchitecture.features.login.Authenticator
+import com.prabha.cleanarchitecture.features.login.LoginActivity
+import com.prabha.cleanarchitecture.features.movies.MoviesActivity
+import com.prabha.cleanarchitecture.shouldNavigateTo
 import com.nhaarman.mockito_kotlin.whenever
 import org.junit.Before
 import org.junit.Test

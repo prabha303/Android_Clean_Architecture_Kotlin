@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.features.login
+package com.prabha.cleanarchitecture.features.login
 
-import com.fernandocejas.sample.UnitTest
+import com.prabha.cleanarchitecture.UnitTest
 import org.amshove.kluent.shouldBe
 import org.junit.Test
 

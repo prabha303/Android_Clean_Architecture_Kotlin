@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample
+package com.prabha.cleanarchitecture
 
 import android.support.annotation.IdRes
 import android.support.test.espresso.Espresso.onView

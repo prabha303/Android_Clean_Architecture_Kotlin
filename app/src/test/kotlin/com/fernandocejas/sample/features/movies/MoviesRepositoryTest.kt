@@ -13,17 +13,17 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.features.movies
+package com.prabha.cleanarchitecture.features.movies
 
-import com.fernandocejas.sample.UnitTest
-import com.fernandocejas.sample.features.movies.MoviesRepository.Network
-import com.fernandocejas.sample.core.exception.Failure.NetworkConnection
-import com.fernandocejas.sample.core.exception.Failure.ServerError
-import com.fernandocejas.sample.core.extension.empty
-import com.fernandocejas.sample.core.functional.Either
-import com.fernandocejas.sample.core.functional.Either.Left
-import com.fernandocejas.sample.core.functional.Either.Right
-import com.fernandocejas.sample.core.platform.NetworkHandler
+import com.prabha.cleanarchitecture.UnitTest
+import com.prabha.cleanarchitecture.features.movies.MoviesRepository.Network
+import com.prabha.cleanarchitecture.core.exception.Failure.NetworkConnection
+import com.prabha.cleanarchitecture.core.exception.Failure.ServerError
+import com.prabha.cleanarchitecture.core.extension.empty
+import com.prabha.cleanarchitecture.core.functional.Either
+import com.prabha.cleanarchitecture.core.functional.Either.Left
+import com.prabha.cleanarchitecture.core.functional.Either.Right
+import com.prabha.cleanarchitecture.core.platform.NetworkHandler
 import com.nhaarman.mockito_kotlin.given
 import com.nhaarman.mockito_kotlin.verify
 import com.nhaarman.mockito_kotlin.verifyZeroInteractions

@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.core.interactor
+package com.prabha.cleanarchitecture.core.interactor
 
-import com.fernandocejas.sample.AndroidTest
-import com.fernandocejas.sample.core.exception.Failure
-import com.fernandocejas.sample.core.functional.Either
-import com.fernandocejas.sample.core.functional.Either.Right
+import com.prabha.cleanarchitecture.AndroidTest
+import com.prabha.cleanarchitecture.core.exception.Failure
+import com.prabha.cleanarchitecture.core.functional.Either
+import com.prabha.cleanarchitecture.core.functional.Either.Right
 import kotlinx.coroutines.experimental.runBlocking
 import org.amshove.kluent.shouldEqual
 import org.junit.Test

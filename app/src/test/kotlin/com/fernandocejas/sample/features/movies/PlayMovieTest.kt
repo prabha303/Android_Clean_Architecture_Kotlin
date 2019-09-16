@@ -13,10 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.features.movies
+package com.prabha.cleanarchitecture.features.movies
 
-import com.fernandocejas.sample.AndroidTest
-import com.fernandocejas.sample.core.navigation.Navigator
+import com.prabha.cleanarchitecture.AndroidTest
+import com.prabha.cleanarchitecture.core.navigation.Navigator
 import com.nhaarman.mockito_kotlin.verify
 import org.junit.Before
 import org.junit.Test

@@ -16,7 +16,7 @@
 @file:JvmName("AndroidAssertions")
 @file:JvmMultifileClass
 
-package com.fernandocejas.sample
+package com.prabha.cleanarchitecture
 
 import android.support.v7.app.AppCompatActivity
 import org.amshove.kluent.shouldEqual

@@ -13,10 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.features.movies
+package com.prabha.cleanarchitecture.features.movies
 
-import com.fernandocejas.sample.UnitTest
-import com.fernandocejas.sample.core.functional.Either.Right
+import com.prabha.cleanarchitecture.UnitTest
+import com.prabha.cleanarchitecture.core.functional.Either.Right
 import com.nhaarman.mockito_kotlin.given
 import com.nhaarman.mockito_kotlin.verify
 import com.nhaarman.mockito_kotlin.verifyNoMoreInteractions

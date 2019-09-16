@@ -13,11 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.fernandocejas.sample.core.functional
+package com.prabha.cleanarchitecture.core.functional
 
-import com.fernandocejas.sample.UnitTest
-import com.fernandocejas.sample.core.functional.Either.Left
-import com.fernandocejas.sample.core.functional.Either.Right
+import com.prabha.cleanarchitecture.UnitTest
+import com.prabha.cleanarchitecture.core.functional.Either.Left
+import com.prabha.cleanarchitecture.core.functional.Either.Right
 import org.amshove.kluent.shouldBe
 import org.amshove.kluent.shouldBeInstanceOf
 import org.amshove.kluent.shouldEqualTo

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:tools="http://schemas.android.com/tools"
-    package="com.fernandocejas.sample"
+    package="com.prabha.cleanarchitecture"
 xmlns:android="http://schemas.android.com/apk/res/android">
 
 <!--Permissions-->
@@ -19,7 +19,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 
   <!--Activities-->
     <activity
-        android:name="com.fernandocejas.sample.core.navigation.RouteActivity"
+        android:name="com.prabha.cleanarchitecture.core.navigation.RouteActivity"
         android:noHistory="true"
         android:theme="@style/AppTheme.Translucent">
         <intent-filter>
